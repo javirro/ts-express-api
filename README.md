@@ -11,3 +11,10 @@
 * To make the build: `npm run tsc`
 * To run continuous building: `npm run dev`
 
+
+#### IMPORT JSON FILE
+
+We have to add a new field in **tsconfig.json**. The field is:
+* `"resolveJsonModule": true`
+
+
